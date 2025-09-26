@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(4, 4, 42);
+}
+
+.box{
+    background-color: rgb(23, 23, 94);
+    text-align: center;
+    color: white;
+    border-radius: 20px;
+}
+img{
+    border-radius: 20px;
+}
+table,tr,td{
+    border: 1px solid white;
+    width: 1400px;
+    height: 30px;
+    border-collapse: collapse;
+}
+thead{
+    background-color: orangered;
+}
+tbody{
+    background-color: rgb(4, 4, 42);
+}
+.card{
+    width: 350px;
+    background-color: rgb(7, 7, 55);
+    border-radius: 20px;
+}
+.card img{
+    width: 100%;
+}
